@@ -1,4 +1,4 @@
 VA_Data_Assets_NCA
 ==================
 
-This is a a repository to generate URLs for NCA Data Assets that do not not URLs, as requested by Vicki Cordes (NCA) and Lisa Mavrogianis (Open Data IPT). These files are updated on a regular basis to reflect changes in the data sets for 53 data assets representing US states and territories where VA cemetaries are located.
+This repository is controlled by the Department of Veterans Affairs (VA) Office of Information Technology (OI&T) Open Data Team. All data assets that are in this repository have been reviewed and approved by the VA Privacy Officer associated with the National Cemetary Administration. They have been posted at the request of the relevant VA office. Questions and comments can be addressed by Michael Miti-Kavuma (michael.miti-kavuma@va.gov).
